@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DVfromtheeast
-- 🌱 I’m a design generalist
+- 👋 Hi, I’m DV @DVfromtheeast
+- 🌱 I’m a production designer
 - 📫 How to reach me: 
 - Website: https://dvdesign.pro/
 - Email: vuongduc47@gmail.com
