@@ -1,6 +1,6 @@
 👋 Hi, I’m **Duc (DV) Vuong** @DVfromtheEast
-I’m a product designer
-How to reach me: 
+- I’m a product designer
+- How to reach me: 
 - Website: https://dvdesign.pro/
 - Email: vuongduc47@gmail.com
 - Discord: dvvvvv
