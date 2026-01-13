@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DV @DVfromtheeast
+- 👋 Hi, I’m DV @DVfromtheEast
 - 🌱 I’m a product designer
 - 📫 How to reach me: 
 - Website: https://dvdesign.pro/
