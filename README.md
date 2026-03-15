@@ -1,7 +1,6 @@
 ---
 name: DV
 role: Product Designer
-location: Hanoi, Vietnam
 ---
 👋 Hi, I’m **Duc (DV) Vuong** @DVfromtheEast
 I’m a design generalist from Vietnam. My work is actualizing ideas for physical products or digital services.
