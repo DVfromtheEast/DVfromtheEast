@@ -7,7 +7,7 @@ I’m a design generalist from Vietnam. My work is actualizing ideas for physica
 
 # Philosophy
 
-To me, each product has its own important role and can significantly affect a specific aspect of human life. That's why I believe great products are built through continuous iteration and honest feedback. Every design decision is a hypothesis until you ship it, measure it, and refine it. What matters most is that users feel their actions truly matter, where the product responds to them in meaningful ways. I value quantitative thinking over assumptions, and I believe the best work happens when teams are given autonomy and ownership over their decisions. A great product isn't just functional, it creates a genuine connection between the user and the experience.
+To me, each product has its own important role and can significantly affect a specific aspect of human life. That's why I believe great products are built through continuous iteration and honest feedback. Every design decision is a hypothesis until you ship it, measure it, and refine it. What matters most is that users feel their actions truly matter, where the product responds to them in meaningful ways.
 
 # How to reach me 
 
